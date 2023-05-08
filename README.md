@@ -1,2 +1,2 @@
 # DSA
-DSA by peskills
+DSA by pwSkills
